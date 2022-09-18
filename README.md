@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitkrperf
+- 👋 Hi, I’m Amit Kumar. 
 - 👀 I’m interested in improving my Algo, DS, CI/CD skills 
 - 🌱 I’m currently learning Python, Terraform, and many other technologies.
 <!---
